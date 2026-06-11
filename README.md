@@ -1,4 +1,4 @@
-🌾 Agri Data Explorer
+🌾 Agri-Data-Explorer
 
 Agricultural Data Analysis using Python, SQL & Data Visualization
 📌 Project Overview
